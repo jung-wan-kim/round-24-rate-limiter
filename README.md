@@ -1,2 +1,1 @@
-# round-24-rate-limiter
-UFC-Harness Round 24: Rate Limiter
+# Round 24: Rate Limiter\n\n## Spec\nToken bucket rate limiter 구현 (capacity, refillPerSec).\n\n## Tests\nhidden 50ms burst + steady state 검증.
